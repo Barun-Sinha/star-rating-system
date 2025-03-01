@@ -17,6 +17,6 @@ star-rating-system/ │── index.html # Main HTML file
 ## 📌 How to Use
 1. **Clone the repository** (or download as ZIP):
    ```sh
-   git clone https://github.com/your-username/star-rating-system.git
+   git clone https://github.com/Barun-Sinha/star-rating-system.git
 2. Open index.html in your browser.
 3. Click on a star to rate. ⭐
